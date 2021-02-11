@@ -11,16 +11,16 @@ To launch the material for this course, click on the Binder link:
 Adjustments may be made to the outline based on student needs.  The working plan is as follows:
 
 * DAY 1
-  * Review of Python essentials
-  * Break and programming exercises
+  * Python Essentials, part 1 ✓
+  * Break and programming exercises ✓
   * Introducing Pandas
   * Break and programming exercises
   * Understanding DataFrames
   * Break and programming exercises
   * Review and questions 
 * DAY 2
-  * Continuing Python essentials
-  * Break and programming exercises
+  * Continuing Python essentials ✓
+  * Break and programming exercises ✓
   * The Ethics of Visualization ✓
   * Break and thought exercises ✓
   * Reviewing visualization using Pandas
