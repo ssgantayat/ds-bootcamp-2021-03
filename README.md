@@ -23,7 +23,7 @@ Adjustments may be made to the outline based on student needs.  The working plan
   * Break and programming exercises ✓
   * The Ethics of Visualization ✓
   * Break and thought exercises ✓
-  * Reviewing visualization using Pandas
+  * Visualization using Pandas
   * Break and programming exercise
   * Advanced Pandas: Groupby, Timeseries
   * Review and questions
