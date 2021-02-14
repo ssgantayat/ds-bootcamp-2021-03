@@ -15,8 +15,8 @@ Adjustments may be made to the outline based on student needs.  The working plan
   * Break and programming exercises ✓
   * Pandas Series ✓
   * Break and programming exercises ✓
-  * Understanding DataFrames
-  * Break and programming exercises
+  * Understanding DataFrames ✓
+  * Break and programming exercises ✓
   * Review and questions 
 * DAY 2
   * Continuing Python essentials ✓
