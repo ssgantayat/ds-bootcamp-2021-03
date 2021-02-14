@@ -13,8 +13,8 @@ Adjustments may be made to the outline based on student needs.  The working plan
 * DAY 1
   * Python Essentials, part 1 ✓
   * Break and programming exercises ✓
-  * Introducing Pandas
-  * Break and programming exercises
+  * Pandas Series ✓
+  * Break and programming exercises ✓
   * Understanding DataFrames
   * Break and programming exercises
   * Review and questions 
