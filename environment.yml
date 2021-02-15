@@ -13,3 +13,5 @@ dependencies:
     - scikit-learn
     - tabulate
     - xlrd
+    - pip:
+      - pyarrow

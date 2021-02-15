@@ -25,7 +25,8 @@ Adjustments may be made to the outline based on student needs.  The working plan
   * Break and thought exercises ✓
   * Visualization using Pandas ✓
   * Break and programming exercise ✓
-  * Advanced Pandas: Groupby, Timeseries
+  * Advanced Pandas: Groupby, Timeseries ✓
+  * Break and programming exercise ✓
   * Review and questions
 * DAY 3
   * Seaborn statistical plots ✓
