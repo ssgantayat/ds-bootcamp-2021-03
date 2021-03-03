@@ -36,3 +36,16 @@ Adjustments may be made to the outline based on student needs.  The working plan
   * Using scikit-learn ✓
   * Break and programming exercises ✓
   * Review and evaluation 
+
+## REFERENCE MATERIAL
+
+* The Python Tutorial, Official Python Documentation Team.
+
+## Books
+
+* Cleaning Data for Effective Data Science: Doing the Other 80% of the Work.  David Mertz, Packt Publishing, 2021.
+* Visual Explanations, Edward Tufte, 1997
+* Data Visualization: A Practical Introduction, Kieran Healy, 2019
+* Python Data Science Handbook, Jake VanderPlas
+* Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, Wes McKinney
+* Introduction to Machine Learning with Python: A Guide for Data Scientists, Andreas C. Müller & Sarah Guido
