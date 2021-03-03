@@ -1,23 +1,8 @@
-<div style="position: relative; font-family: proxima-nova, sans-serif";>
-<img src="https://user-images.githubusercontent.com/7065401/98728503-5ab82f80-2378-11eb-9c79-adeb308fc647.png"></img>
+# INE Online Bootcamp
+## Data Analysis, Visualization, and Predictive Modeling
 
-<h1 style="color: white; position: absolute; top:27%; left:10%;">
-     INE Online Bootcamp
-</h1>
-<h2 style="color: white; position: absolute; top:36%; left:10%;">
-    Data Analysis, Visualization, and Predictive Modeling
-</h2>
-
-
-<h3 style="color: #ef7d22; font-weight: normal; position: absolute; top:58%; left:10%;">
-    David Mertz, Ph.D.
-</h3>
-
-<h3 style="color: #ef7d22; font-weight: normal; position: absolute; top:63%; left:10%;">
-    Data Scientist
-</h3>
-</div>
-
+### David Mertz, Ph.D.
+### Data Scientist
 
 Session: March 2021
 
