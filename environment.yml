@@ -1,6 +1,5 @@
 name: INE-bootcamp
 channels:
-    - intel
     - conda-forge
 dependencies:
     - python=3.9
@@ -13,5 +12,6 @@ dependencies:
     - scikit-learn
     - tabulate
     - xlrd
+    - jupyter
     - pip:
       - pyarrow
